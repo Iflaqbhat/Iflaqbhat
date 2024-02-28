@@ -1,37 +1,53 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Snake Animation</title>
-  <style>
-    /* Style for the snake */
-    #snake {
-      width: 50px;
-      height: 50px;
-      fill: red;
-      animation: snakeMove 5s linear infinite;
-    }
+### Hi there! 👋
 
-    /* Keyframe animation for the snake */
-    @keyframes snakeMove {
-      0% {
-        transform: translateX(0);
-      }
-      50% {
-        transform: translateX(200px);
-      }
-      100% {
-        transform: translateX(0);
-      }
-    }
-  </style>
-</head>
-<body>
-  <!-- SVG container for the snake -->
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-    <path id="snake" d="M10,50 Q30,25 50,50 Q70,75 90,50" />
-  </svg>
-</body>
-</html>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iflaqbhat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iflaqbhat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+</div>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/iflaq-khurshid">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="margin-right: 10px;" />
+  </a>
+  <a href="https://x.com/Aflak32165859?t=wdT1CK07oIdZhXjSsmC1ng&s=09">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" style="margin-right: 10px;" />
+  </a>
+  <a href="mailto:ifuubhat72@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" style="margin-right: 10px;" />
+  </a>
+</div>
+
+<div align="center" style="margin-top: 20px; background-color: #121212; color: #ffffff; padding: 20px;">
+  <img src="https://raw.githubusercontent.com/iflaqbhat/iflaqbhat/main/snake.svg" alt="Snake animation" style="max-width: 100%;" />
+</div>
 
