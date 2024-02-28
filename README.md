@@ -55,8 +55,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/iflaqbhat/iflaqbhat/output/snake.svg" alt="Snake animation" />
-
-###
-
 
