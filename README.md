@@ -25,8 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/recoil/recoil-original.svg" height="40" alt="recoil logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chatgpt/chatgpt-original.svg" height="40" alt="chatgpt logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
 </div>
 
 ---
@@ -54,6 +53,3 @@
 ---
 
 <p align="center">Thanks for stopping by! 😊</p>
-
-
-
